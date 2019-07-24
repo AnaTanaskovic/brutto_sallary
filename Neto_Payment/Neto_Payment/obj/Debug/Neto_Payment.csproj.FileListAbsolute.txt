@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\MagicLine\Neto_Payment\Neto_Payment\bin\Debug\Neto_Payment.exe.config
+C:\Users\DELL\Desktop\MagicLine\Neto_Payment\Neto_Payment\bin\Debug\Neto_Payment.exe
+C:\Users\DELL\Desktop\MagicLine\Neto_Payment\Neto_Payment\bin\Debug\Neto_Payment.pdb
+C:\Users\DELL\Desktop\MagicLine\Neto_Payment\Neto_Payment\obj\Debug\Neto_Payment.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\MagicLine\Neto_Payment\Neto_Payment\obj\Debug\Neto_Payment.Form1.resources
+C:\Users\DELL\Desktop\MagicLine\Neto_Payment\Neto_Payment\obj\Debug\Neto_Payment.Properties.Resources.resources
+C:\Users\DELL\Desktop\MagicLine\Neto_Payment\Neto_Payment\obj\Debug\Neto_Payment.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\MagicLine\Neto_Payment\Neto_Payment\obj\Debug\Neto_Payment.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MagicLine\Neto_Payment\Neto_Payment\obj\Debug\Neto_Payment.exe
+C:\Users\DELL\Desktop\MagicLine\Neto_Payment\Neto_Payment\obj\Debug\Neto_Payment.pdb
